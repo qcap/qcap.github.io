@@ -1,3 +1,3 @@
 ## qcap.github.com
 
-#### This is a my blog .
+#### This is my blog .
